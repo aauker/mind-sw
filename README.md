@@ -7,7 +7,7 @@ Separate into `MindSWCore` which includes libraries and packages not developed b
 To build, MindSWCore is built first and installed, then MindSWMain.  In order to add packages all one needs to do is add the subdirectory physically and in the CMakeLists file.
 
 # Setup
-Call source setup.sh MindSW-1.0
+Call source setup.sh
 
 # Extras
 1. Download InsightToolkit-5.1.0 from https://itk.org/download/
